@@ -26,6 +26,8 @@ LINK OF APP -> https://bit.ly/3y6w7Ut
 
 WORKING -> https://youtu.be/Yo8X0O7b80Y
 
+API -> https://github.com/Amod069/API_LAPTOP_PRICE_PREDICTOR
+
 ---
 ## Screenshots Of APP Working
 1) START ACTIVITY : 
