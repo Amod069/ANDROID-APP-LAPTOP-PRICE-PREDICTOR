@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">PRICE PREDICTOR</string>
+
+    <string-array name="company_name">
+        <item>Select Company Type</item>
+        <item>Apple</item>
+        <item>HP</item>
+        <item>Acer</item>
+        <item>Asus</item>
+        <item>Dell</item>
+        <item>Lenovo</item>
+        <item>Xiaomi</item>
+        <item>MSI</item>
+        <item>Microsoft</item>
+        <item>Toshiba</item>
+        <item>Chuwi</item>
+        <item>Huawei</item>
+        <item>Vero</item>
+        <item>Razer</item>
+    </string-array>
+    <string-array name="type">
+        <item>Select Laptop Type</item>
+        <item>Ultrabook</item>
+        <item>Notebook</item>
+        <item>Netbook</item>
+        <item>Gaming</item>
+        <item>2 in 1 Converible</item>
+        <item>Workstation</item>
+    </string-array>
+    <string-array name="ram">
+        <item>Select RAM(in GB)</item>
+        <item>8</item>
+        <item>16</item>
+        <item>12</item>
+        <item>4</item>
+        <item>2</item>
+        <item>32</item>
+        <item>24</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="touch">
+        <item>Select Touchscreen or Not</item>
+        <item>YES</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="ips">
+        <item>Select IPS display or Not</item>
+        <item>YES</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="screen_res">
+        <item>Select Screen Resolution</item>
+        <item>1366x768</item>
+        <item>1600x900</item>
+        <item>1920x1080</item>
+        <item>2304x1440</item>
+        <item>2560x1440</item>
+        <item>2560x1600</item>
+        <item>2880x1800</item>
+        <item>3000x2000</item>
+        <item>3200x1800</item>
+        <item>3840x2160</item>
+    </string-array>
+    <string-array name="processor_brand">
+        <item>Select Processor Brand</item>
+        <item>Intel Core i5</item>
+        <item>Intel Core i7</item>
+        <item>Intel Core i3</item>
+        <item>AMD Processor</item>
+        <item>Other Intel Processor</item>
+    </string-array>
+    <string-array name="hdd">
+        <item>Select HDD(in GB)</item>
+        <item>0</item>
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+    </string-array>
+    <string-array name="ssd">
+        <item>Select SSD(in GB)</item>
+        <item>0</item>
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+    </string-array>
+    <string-array name="graphic_card">
+        <item>Select Integrated Graphics</item>
+        <item>Intel</item>
+        <item>AMD</item>
+        <item>Nvidia</item>
+    </string-array>
+    <string-array name="os">
+        <item>Select Operating System</item>
+        <item>Mac</item>
+        <item>Windows</item>
+        <item>Others/No OS/Linux</item>
+    </string-array>
+</resources>
