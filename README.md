@@ -20,9 +20,11 @@ which then predicts the price of laptop using Machine learning algorithm and ret
 _THEN THE API RETRUNS THE PREDICTED VALUE(**IN JSON FORMAT**) BY USING MACHINE LEARNING ALGORITHM_
 
 **NOTE** : THE APP PREDICTS THE MRP OF THE LAPTOP _NOT THE PRICES AFTER DISCOUNT_
-## LINK OF APP
 
-LINK OF APP -> https://bit.ly/3y6w7Ut
+----
+## RELATIVE LINKS REGARDS OF APP
+
+DOWNLOAD LINK OF APP -> https://bit.ly/3y6w7Ut
 
 WORKING -> https://youtu.be/Yo8X0O7b80Y
 
