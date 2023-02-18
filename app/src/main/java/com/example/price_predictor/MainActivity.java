@@ -31,7 +31,7 @@ import java.util.Map;
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener, View.OnClickListener {
     Spinner company,type,ram,hdd,ssd,os,gpubrand,touchscreen,ips,cpubrand,resolution;
     String L_com,L_type,L_touch,L_ips,L_graphic,L_processor,L_screen_res,L_os,L_ram,L_ssd,L_hdd;
-   String url="https://api-laptop-prices.herokuapp.com/predict",s;
+   String url="https://api-laptop-price-predicator.onrender.com/predict",s;
     EditText weight,screensize;
     Integer L_touch_yes;
     Integer L_ips_yes;
